@@ -1,6 +1,6 @@
 # Creative practice
 
-## Constrasts
+## Contrasts
 
 + Old and new
 + Big and small
